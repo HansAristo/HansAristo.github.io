@@ -1,7 +1,23 @@
-h1 {
-    color: powderblue;
+.header {
+display: flex;
+border-style: solid;
+border-color: #000000;
+border-width:1px;
 }
 
-head {
-    background-color: yellow;
+.logo{
+width: 60px;
+height: 60px;
+background-image: url('./assets/HansLogo.png');
+background-size: cover;
+}
+
+.header-menu {
+padding:20px 16px 20px 16px;
+cursor: pointer;
+}
+
+.header-menu:hover {
+background-color: black;
+color: white;
 }
