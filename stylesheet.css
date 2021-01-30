@@ -21,3 +21,28 @@ cursor: pointer;
 background-color: black;
 color: white;
 }
+
+.copy-container {
+width: auto;
+height: 70vh;
+background-color: ;
+background-image: url('./assets/p-433-lukestackpoole-faint-milky-way-card-a.jpg');
+background-size: cover;
+}
+
+.copy-container-logo {
+padding: 10% 50%;
+width: auto;
+height: 30vh;
+display: flex;
+justify-content: center;
+}
+
+.contents {
+
+}
+
+.footer {
+background-color: brown;
+padding-top: 20%;
+}
