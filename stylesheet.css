@@ -43,6 +43,13 @@ justify-content: center;
 }
 
 .footer {
-background-color: brown;
-padding-top: 20%;
+border-style: solid;
+border-width: 0px;
+border-top:solid;
+background-color:;
+padding-top: 5%;
+}
+
+.footer-icon {
+
 }
