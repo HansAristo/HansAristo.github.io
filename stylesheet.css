@@ -47,11 +47,30 @@ border-width: 1px;
 border-color: #000000;
 border-width: 0px;
 border-top:solid;
+}
+
+.footer-info {
+background-color:slategray;
 background-color:;
-padding-top: 2%;
+padding-top: 1% ;
 background-size: cover;
 }
 
 .footer-icon {
 
+}
+
+.info-about {
+padding-left: 1%;
+
+}
+
+.about-contact {
+float: right;
+padding-right: 1%;
+padding-top: 1%;
+}
+
+.contact-telp {
+color: black;
 }
