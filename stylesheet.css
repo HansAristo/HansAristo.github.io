@@ -24,7 +24,7 @@ color: white;
 
 .copy-container {
     width: auto;
-    height: 70vh;
+    height: 60vx;
 
     background-image: url('./assets/p-433-lukestackpoole-faint-milky-way-card-a.jpg');
     background-size: cover;
@@ -38,5 +38,37 @@ display: flex;
 justify-content: center;
 }
 
+.footer {
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+    margin-top: 100px;
+    padding-top: 1px;
+    padding-left: 10px;
+}
 
+.footer h1 {
+margin-bottom: 100px;
+}
 
+.social-media {
+    font-size: 70px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
